@@ -1,0 +1,11 @@
+*~
+*.o
+*.a
+copy_test
+test_hardlink
+test_symboliclink
+stat
+cat
+test
+COO_Training
+mcat-lib
